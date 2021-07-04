@@ -1,3 +1,5 @@
+![2021-07-04 (2)](https://user-images.githubusercontent.com/80426878/124379546-976cca00-dc6c-11eb-91f1-2f12a7d5862f.png)
+![2021-07-04 (3)](https://user-images.githubusercontent.com/80426878/124379551-99cf2400-dc6c-11eb-97c3-714da43a15db.png)
 # Note Taker 
 
 ## Table Of Contents
